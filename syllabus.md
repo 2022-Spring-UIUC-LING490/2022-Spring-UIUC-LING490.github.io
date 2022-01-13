@@ -55,8 +55,8 @@ Tuesdays and Thursdays 12:30-1:50 PM, Foreign Languages Building, room G23
     <p>This book is <a href="https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592">available for purchase</a> as an eBook and as a trade paperback directly from the publisher and from other retailers. You will need to purchase this book.</p>
   </li>
   <li>
-    <p><a href="http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">Morphology and Computation</a> by Richard Sproat</p>
-	<p>This book is <a href="http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">available for free in PDF form</a> through the University of Illinois via the IEEE Xplore Digital Library (you probably need to be on campus to access the free PDF).</p>
+    <p><a href="http://www.library.illinois.edu/proxy/go.php?url=http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">Morphology and Computation</a> by Richard Sproat</p>
+	<p>This book is <a href="http://www.library.illinois.edu/proxy/go.php?url=http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">available for free in PDF form</a> through the University of Illinois via the IEEE Xplore Digital Library.</p>
   </li>
   <li>
   	<p><a href="http://www.library.illinois.edu/proxy/go.php?url=https://link.springer.com/book/10.1007%2F978-94-009-2213-6">Mathematical Methods in Linguistics</a> by Barbara H. Partee, Alice Ter Meulen, Robert E. Wall</p>
