@@ -13,14 +13,16 @@ active_tab: syllabus
 <p>Introduction to the main approaches, tools, and methods related to computational modeling and learning of morphology and morphophonology.</p>    
     
 <h4>Instructor</h4>
-[Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours Tue 5:20 PM - 6:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4019, and by appointment. If there are students waiting in line at 6 PM, I will generally stay as late as needed. If you can't come during those times but you can come at some point after 6:00 PM, please contact me via private message on Piazza to arrange a time later on Tuesday.
+[Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes)
+<!-- - Office hours Tue 5:20 PM - 6:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4019, and by appointment. If there are students waiting in line at 6 PM, I will generally stay as late as needed. If you can't come during those times but you can come at some point after 6:00 PM, please contact me via private message on Piazza to arrange a time later on Tuesday.-->
 
 
 <h4>TA</h4>
-[Giang Ha Le](https://linguistics.illinois.edu/directory/profile/gianghl2) - Office hours Fri 2:00 PM - 3:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 3028.
+[Hayley Park](https://linguistics.illinois.edu/directory/profile/hpark129)
+<!-- - Office hours Fri 2:00 PM - 3:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 3028.-->
 
 <h4>Time and place</h4>
-Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room G23
+Tuesdays and Thursdays 12:30-1:50 PM, Foreign Languages Building, room G23
 
 <h4>Prerequisites</h4>
 
@@ -57,8 +59,8 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs
 	<p>This book is <a href="http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">available for free in PDF form</a> through the University of Illinois via the IEEE Xplore Digital Library (you probably need to be on campus to access the free PDF).</p>
   </li>
   <li>
-  	<p><a href="https://link.springer.com/book/10.1007%2F978-94-009-2213-6">Mathematical Methods in Linguistics</a> by Barbara H. Partee, Alice Ter Meulen, Robert E. Wall</p>
-	<p>This book is <a href="https://link.springer.com/book/10.1007%2F978-94-009-2213-6">available for free in PDF form</a> through the University of Illinois via Springer Link (you probably need to be on campus to access the free PDF).</p>
+  	<p><a href="http://www.library.illinois.edu/proxy/go.php?url=https://link.springer.com/book/10.1007%2F978-94-009-2213-6">Mathematical Methods in Linguistics</a> by Barbara H. Partee, Alice Ter Meulen, Robert E. Wall</p>
+	<p>This book is <a href="http://www.library.illinois.edu/proxy/go.php?url=https://link.springer.com/book/10.1007%2F978-94-009-2213-6">available for free in PDF form</a> through the University of Illinois via Springer Link.</p>
   </li>
   <li>
 	  <p><a href="https://www.amazon.com/Language-Construction-Kit-Mark-Rosenfelder-ebook-dp-B005RX79Z4/dp/B005RX79Z4">The Language Construction Kit</a> by Mark Rosenfelder. You will need to purchase this book.</p>
@@ -87,12 +89,6 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs
   <li>
     <p><a href="https://fomafst.github.io/">Foma documentation</a></p>
   </li>
-<!--
-  <li>
-    <p><a href="http://iclicker.illinois.edu/students.aspx">i>clicker</a></p>
-    <p>This hardware can be purchased at the Illini Union Bookstore.</p>
-  </li>
--->
 </ul>
 
 
