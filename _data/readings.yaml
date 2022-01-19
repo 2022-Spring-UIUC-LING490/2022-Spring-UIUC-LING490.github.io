@@ -46,9 +46,11 @@
 #  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
     -
-      title: Interactive IPA Chart
+      author: IPA
+      title: Interactive Chart
       url:   "https://www.ipachart.com"
     -
+      auther: Wikipedia
       title: Phonological Rules
       url:   "https://en.wikipedia.org/wiki/Phonological_rule"
       optional: true
