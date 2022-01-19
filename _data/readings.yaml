@@ -50,7 +50,7 @@
       title: Interactive Chart
       url:   "https://www.ipachart.com"
     -
-      auther: Wikipedia
+      author: Wikipedia
       title: Phonological Rules
       url:   "https://en.wikipedia.org/wiki/Phonological_rule"
       optional: true
