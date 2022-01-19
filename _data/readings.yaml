@@ -1,7 +1,6 @@
 # Week 1
 -
-# title: Welcome
-  slides: "https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/01.pdf"
+  title: Syllabus
   lecturer: Lane Schwartz
   reading:
     -
@@ -11,47 +10,34 @@
       length:
           value: 4
           unit: "pages"
-#    -
-#      author: Lees-Miller
-#      title: "An Interactive Introduction to LaTeX (part 1)"
-#      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1.pdf"
-#      optional: true
-#      pages: "1‑21"
-#      length:
-#          value: 21
-#          unit: "pages"
-#    -
-#      author: Lees-Miller
-#      title: "An Interactive Introduction to LaTeX (part 2)"
-#      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-2.pdf"
-#      optional: true
-#      pages: "1‑23"
-#      length:
-#          value: 23
-#          unit: "pages"
-#    -
-#      author: Lees-Miller
-#      title: "An Interactive Introduction to LaTeX (part 3)"
-#      url: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-3.pdf
-#      optional: true
-#      pages: "1‑34"
-#      length:
-#          value: 34 
-#          unit: "pages"
-#    -
-#      author: Wikibooks
-#      title: LaTeX Wikibook
-#      url: https://en.wikibooks.org/wiki/LaTeX
-#      optional: true
-#      pages: "1‑748"
-#      length:
-#          value: 748
-#          unit: "pages"
 -
-#  slides: "https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/02.pdf"
-  title: "Introduction to computational morphology"
+  title: "Introduction to morphology"
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Bauer
+      title:  "Chapter 1 - Introduction"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.4"
+      pages:  "3-6"
+      length:
+          value: 4
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 2 - The Basic Units"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.5"
+      pages:  "8-19"
+      length:
+          value: 12
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 3.1 - Word-Building Processes using Affixes"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "24-31"
+      length:
+          value: 7
+          unit: "pages"
     -
       author: Sproat
       title: Introduction
@@ -60,47 +46,7 @@
       length: 
           value: 5
           unit: "pages"
-    -
-      author: Sproat
-      title: Chapter 1 - "Applications of computational morphology"
-      url: "http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275008.pdf&bkn=6267438&pdfType=chapter"
-      pages: "1‑14"
-      length: 
-          value: 14
-          unit: "pages"
-    -
-      author: Rosenfelder
-      title: Chapter 1 - "Introduction"
-      url: https://www.amazon.com/Language-Construction-Kit-Mark-Rosenfelder-ebook-dp-B005RX79Z4/dp/B005RX79Z4/ref=mt_kindle?_encoding=UTF8&me=&qid=
-      pages: "7-12"
-      length: 
-          value: 5
-          unit: "pages"
-    -
-      author: Rosenfelder
-      title: Chapter 2 - "A naming language"
-      url: https://www.amazon.com/Language-Construction-Kit-Mark-Rosenfelder-ebook-dp-B005RX79Z4/dp/B005RX79Z4/ref=mt_kindle?_encoding=UTF8&me=&qid=
-      pages: "13-16"
-      length: 
-          value: 4
-          unit: "pages"
-    -
-      author: Rosenfelder
-      title: Chapter 3 - "The overall process"
-      url: https://www.amazon.com/Language-Construction-Kit-Mark-Rosenfelder-ebook-dp-B005RX79Z4/dp/B005RX79Z4/ref=mt_kindle?_encoding=UTF8&me=&qid=
-      pages: "17-26"
-      length: 
-          value: 10
-          unit: "pages"
-#    -
-#      author: Schwartz
-#      title: "Video lecture: Creating remotes for overleaf and github in the same git repository"
-#      url: https://www.youtube.com/watch?v=6OqFEfH7lBY
-#      times: "0:00-12:43"
-#      length:
-#          value: "12.75"
-#          unit: "minutes"
-#
+
 # Week 2
 -
   title: "Linguistic foundations (part 1)"
