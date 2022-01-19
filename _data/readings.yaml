@@ -123,6 +123,47 @@
       length:
           value: 7
           unit: "pages"
+# Week 3
+-
+  title: "Set Theory"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Partee et al.
+      title: Chapter 1 - "Basic Concepts of Set Theory"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
+      pages: "3‑26"
+      length:
+          value: 24
+          unit: "pages"
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      optional: true
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"
+-
+  title: "Relations and Functions"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Partee et al.
+      title: Chapter 2 - "Relations and Functions"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
+      pages: "27‑36"
+      length:
+          value: 10
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 4 - "Infinities"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_4.pdf"
+      pages: "55‑73"
+      length:
+          value: 19
+          unit: "pages"
 -
   title: "A Gentle Introduction to Finite-State Morphology"
   lecturer: Lane Schwartz
@@ -168,35 +209,7 @@
       times: "00:00‑13:23"
       length:
           value: "13.4"
-          unit: "minutes"          
--
-  title: "Set Theory"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Partee et al.
-      title: Chapter 1 - "Basic Concepts of Set Theory"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
-      pages: "3‑26"
-      length:
-          value: 24
-          unit: "pages"
-    -
-      author: Roark and Sproat
-      title: Chapter 4 - "A Brief History of Computational Morphology"
-      optional: true
-      pages: "100‑115"
-      length:
-          value: 16
-          unit: "pages"      
-    -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      optional: true
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"            
+          unit: "minutes"
 -
   title: A More Systematic Introduction to Finite-State Morphology
   lecturer: Lane Schwartz
@@ -240,26 +253,6 @@
       pages: "74‑78"
       length:
           value: 5
-          unit: "pages"
--
-  title: "Relations and Functions"
-  lecturer: Lane Schwartz
-  reading:          
-    -
-      author: Partee et al.
-      title: Chapter 2 - "Relations and Functions"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
-      pages: "27‑36"
-      length:
-          value: 10
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 4 - "Infinities"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_4.pdf"
-      pages: "55‑73"
-      length:
-          value: 19
           unit: "pages"
 -
   title: "Languages, Grammars, and Automata"
