@@ -47,78 +47,85 @@
   reading:
     -
       author: Bauer
-      title:  "Chapter 3.2 - Reduplication"
+      title:  "Chapter 3.2 - 3.10"
       url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "31-32"
+      pages:  "31-49"
       length:
-          value: 1
+          value: 18
           unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.3 - Word-Building by Modification of the Base"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "32-36"
-      length:
-          value: 4
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.4 - Relationships with no change of form"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "36-38"
-      length:
-          value: 3
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.5 - Cases involving shortening bases"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "38-40"
-      length:
-          value: 2
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.6 - Processes involving several lexemes"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "40-46"
-      length:
-          value: 6
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.7 - Alphabet-based formations"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "46-47"
-      length:
-          value: 1
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.8 - Unique morphs"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "48"
-      length:
-          value: 1
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.9 - Suppletion"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "48-49"
-      length:
-          value: 1
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.10 - Conclusion"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "49"
-      length:
-          value: 0
-          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.2 - Reduplication"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "31-32"
+#      length:
+#          value: 1
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.3 - Word-Building by Modification of the Base"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "32-36"
+#      length:
+#          value: 4
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.4 - Relationships with no change of form"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "36-38"
+#      length:
+#          value: 3
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.5 - Cases involving shortening bases"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "38-40"
+#      length:
+#          value: 2
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.6 - Processes involving several lexemes"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "40-46"
+#      length:
+#          value: 6
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.7 - Alphabet-based formations"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "46-47"
+#      length:
+#          value: 1
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.8 - Unique morphs"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "48"
+#      length:
+#          value: 1
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.9 - Suppletion"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "48-49"
+#      length:
+#          value: 1
+#          unit: "pages"
+#    -
+#      author: Bauer
+#      title:  "Chapter 3.10 - Conclusion"
+#      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+#      pages:  "49"
+#      length:
+#          value: 0
+#          unit: "pages"
 -
-#  title: "A Gentle Introduction"
   title: "Linguistic foundations"
   lecturer: Lane Schwartz
   reading:
