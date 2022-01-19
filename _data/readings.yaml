@@ -49,6 +49,9 @@
       author: IPA
       title: Interactive Chart
       url:   "https://www.ipachart.com"
+      length:
+          value: 15
+          unit: "minutes"
     -
       author: Wikipedia
       title: Phonological Rules
