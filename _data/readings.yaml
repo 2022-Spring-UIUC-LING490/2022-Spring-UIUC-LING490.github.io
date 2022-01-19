@@ -61,6 +61,14 @@
           value: 5
           unit: "pages"
     -
+      author: Beesley and Karttunen
+      title: Preliminaries
+      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
+      pages: "xii‑xviii"
+      length:
+          value: 6
+          unit: "pages"
+    -
       author: Bauer
       title:  "Chapter 3.2-3.10 - Other processes"
       url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
@@ -169,14 +177,6 @@
   title: "A Gentle Introduction to Finite-State Morphology"
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Beesley and Karttunen
-      title: Preliminaries
-      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
-      pages: "xii‑xviii"
-      length:
-          value: 6
-          unit: "pages"
     -
       author: Beesley and Karttunen
       title: Chapter 1.1-1.4 - "A Gentle Introduction, part 1"
