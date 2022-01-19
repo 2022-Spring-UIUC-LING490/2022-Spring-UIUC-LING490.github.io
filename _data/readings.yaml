@@ -11,8 +11,9 @@
           value: 4
           unit: "pages"
 -
-  title: "Introduction to morphology"
+  title: "Linguistic foundations (part 1)"
   lecturer: Lane Schwartz
+  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
     -
       author: Bauer
@@ -38,15 +39,6 @@
       length:
           value: 7
           unit: "pages"
-    -
-      author: Sproat
-      title: Introduction
-      url: "http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275004.pdf&bkn=6267438&pdfType=chapter"
-      pages: "xi‑xv"
-      length: 
-          value: 5
-          unit: "pages"
-
 # Week 2
 -
   title: "Linguistic foundations (part 1)"
