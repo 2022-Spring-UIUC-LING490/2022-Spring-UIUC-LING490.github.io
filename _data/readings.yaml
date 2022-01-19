@@ -47,9 +47,27 @@
   reading:
     -
       author: Bauer
-      title:  "Chapter 3.2 - 3.10"
+      title:  "Chapter 3.2-3.10 - Other processes"
       url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
       pages:  "31-49"
+      length:
+          value: 18
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 4 - Defining the word-form"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "57-67"
+      optional: true
+      length:
+          value: 11
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 5 - Productivity"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "70-87"
+      optional: true
       length:
           value: 18
           unit: "pages"
