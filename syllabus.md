@@ -14,12 +14,13 @@ active_tab: syllabus
     
 <h4>Instructor</h4>
 [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes)
-<!-- - Office hours Tue 5:20 PM - 6:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4019, and by appointment. If there are students waiting in line at 6 PM, I will generally stay as late as needed. If you can't come during those times but you can come at some point after 6:00 PM, please contact me via private message on Piazza to arrange a time later on Tuesday.-->
+- Office hours Tue 4:00 PM - 5:00 PM via Zoom
+<!-- - Office hours Tue 5:20 PM - 6:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4019, and by appointment. If there are students waiting in line at 6 PM, I will generally stay as late as needed. If you can't come during those times but you can come at some point after 6:00 PM, please contact me via private message on Campuswire to arrange a time later on Tuesday.-->
 
 
 <h4>TA</h4>
 [Hayley Park](https://linguistics.illinois.edu/directory/profile/hpark129)
-<!-- - Office hours Fri 2:00 PM - 3:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 3028.-->
+- Office hours Fri 2:00 PM - 3:00 PM via Zoom
 
 <h4>Time and place</h4>
 Tuesdays and Thursdays 12:30-1:50 PM, Foreign Languages Building, room G23
@@ -55,24 +56,29 @@ Tuesdays and Thursdays 12:30-1:50 PM, Foreign Languages Building, room G23
     <p>This book is <a href="https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592">available for purchase</a> as an eBook and as a trade paperback directly from the publisher and from other retailers. You will need to purchase this book.</p>
   </li>
   <li>
-    <p><a href="http://www.library.illinois.edu/proxy/go.php?url=http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">Morphology and Computation</a> by Richard Sproat</p>
-	<p>This book is <a href="http://www.library.illinois.edu/proxy/go.php?url=http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">available for free in PDF form</a> through the University of Illinois via the IEEE Xplore Digital Library.</p>
-  </li>
-  <li>
   	<p><a href="http://www.library.illinois.edu/proxy/go.php?url=https://link.springer.com/book/10.1007%2F978-94-009-2213-6">Mathematical Methods in Linguistics</a> by Barbara H. Partee, Alice Ter Meulen, Robert E. Wall</p>
 	<p>This book is <a href="http://www.library.illinois.edu/proxy/go.php?url=https://link.springer.com/book/10.1007%2F978-94-009-2213-6">available for free in PDF form</a> through the University of Illinois via Springer Link.</p>
+  </li>
+<!--
+  <li>
+    <p><a href="http://www.library.illinois.edu/proxy/go.php?url=http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">Morphology and Computation</a> by Richard Sproat</p>
+    <p>This book is <a href="http://www.library.illinois.edu/proxy/go.php?url=http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6267438">available for free in PDF form</a> through the University of Illinois via the IEEE Xplore Digital Library.</p>
   </li>
   <li>
 	  <p><a href="https://www.amazon.com/Language-Construction-Kit-Mark-Rosenfelder-ebook-dp-B005RX79Z4/dp/B005RX79Z4">The Language Construction Kit</a> by Mark Rosenfelder. You will need to purchase this book.</p>
   </li>
+-->
 </ul>
 
 
 <h4>Reference Texts</h4>
 <ul>
   <li>
-  	<p><a href="https://www.nostarch.com/tlcl">The Linux Command Line: A Complete Introduction</a> by William E. Shotts, Jr.</p>
-	<p>This book is <a href="http://linuxcommand.org/tlcl.php">available for free in PDF form</a> directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook <a href="https://www.nostarch.com/tlcl">in both paper and electronic formats directly from the publisher.</a> This textbook can be <a href="http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781593273897">read online through the UIUC library</a>, but because the library's license with the publisher <a href="http://www.library.illinois.edu/rex/guides/ebooks/">restricts the number of simultaneous users</a>, you should <em>not</em> rely on this as your only mechanism for accessing the book.</p>
+    <p><a href="https://fomafst.github.io/">Foma documentation</a></p>
+  </li>
+  <li>
+  	<p><a href="https://www.nostarch.com/tlcl2">The Linux Command Line: A Complete Introduction</a> by William E. Shotts, Jr.</p>
+	<p>This book is <a href="https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download">available for free in PDF form</a> directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook <a href="https://www.nostarch.com/tlcl2">in both paper and electronic formats directly from the publisher.</a> This textbook can be <a href="https://i-share-uiu.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=20688639480005899&institutionId=5899&customerId=5815">read online through the UIUC library</a>, but because the library's license with the publisher <a href="http://www.library.illinois.edu/rex/guides/ebooks/">may restrict the number of simultaneous users</a>, you should <em>not</em> rely on this as your only mechanism for accessing the book.</p>
   </li>
   <li>
     <p>
@@ -85,9 +91,6 @@ Tuesdays and Thursdays 12:30-1:50 PM, Foreign Languages Building, room G23
   </li>
   <li>
     <p><a href="https://github.com/hfst/hfst/wiki">HFST documentation</a></p>
-  </li>
-  <li>
-    <p><a href="https://fomafst.github.io/">Foma documentation</a></p>
   </li>
 </ul>
 
@@ -146,18 +149,6 @@ Grades will be assessed on a 10-point fixed letter grade system. <a href="http:/
 </table>
 
 
-<h4>Communication</h4>
-
-<p>
-All communication with the instructor and with any TAs should be conducted exclusively via the following means:
-
-<ul>
-  <li>In person in the classroom</li>
-  <li>In person in office hours</li>
-  <li>Electronically through the class Piazza forum</li>
-</ul>
-</p>
-
 
 <h4>Academic Integrity</h4>
 
@@ -176,7 +167,7 @@ Students are expected to regularly review the schedule of assigned readings and 
 
 Students are expected to and required to complete all assigned readings and video lectures prior to the class for which they are assigned.
 
-Students are expected to read and follow all public discussions on the course Piazza site.
+Students are expected to read and follow all public discussions on the course Campuswire site.
 
 
 <h4>Learning Goals & Outcomes</h4>
@@ -192,7 +183,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 If a student has a disability or condition that requires special consideration, the student is expected to present the requisite letter from the University Division of Disability Resources and Educational Services no later than the beginning of the second day of class by performing the following steps:
 
 <ul>
-  <li>Post a private Piazza message addressed to both the instructor and the TA.</li>
+  <li>Post a private Campuswire message addressed to both the instructor and the TA.</li>
   <li>The post must have the exact subject heading "DRES letter".</li>
   <li>The post must be tagged with the <i>dres</i> tag.</li>
   <li>In the body of the post, the student should attach a PDF of their DRES letter.</li>
@@ -208,12 +199,12 @@ If a student has a disability or condition that requires special consideration, 
 <p>
 If a student wishes to request an excused absence, the student must do <strong>all</strong> of the following <strong>prior to the missed class period</strong>:
 <ul>
-  <li>Post a private Piazza message addressed to both the instructor and the TA.</li>
+  <li>Post a private Campuswire message addressed to both the instructor and the TA.</li>
   <li>The post must have the exact subject heading "Request excused absence".</li>
   <li>The post must be tagged with the <i>absence</i> tag.</li>
   <li>In the body of the post, the student must explicitly describe the reason for the absence.</li>
   <li>In the body of the post, the student must explicitly request an excused absence.</li>
-  <li>In the body of the post, the student must attach a PDF of an official absence letter (from the student's health provider or from the <a href="https://odos.illinois.edu/community-of-care/resources/students/absence-letters/">Student Assistance Center in the Office of the Dean of Students</a>). If an official absence letter cannot be provided prior to the missed class period (for example if the students becomes ill immediately prior to class and is still at the doctor's office during the missed class period), the student must attach such a letter to the Piazza post promptly thereafter.</li>
+  <li>In the body of the post, the student must attach a PDF of an official absence letter (from the student's health provider or from the <a href="https://odos.illinois.edu/community-of-care/resources/students/absence-letters/">Student Assistance Center in the Office of the Dean of Students</a>). If an official absence letter cannot be provided prior to the missed class period (for example if the students becomes ill immediately prior to class and is still at the doctor's office during the missed class period), the student must attach such a letter to the Campuswire post promptly thereafter.</li>
 </ul>
 
 If all of the above steps are timely followed, credit missed as a result of an excused absence may be made up (for example, by means of additional assignments) at the discretion of the instructor.
@@ -236,7 +227,7 @@ Homework assignments must be turned in prior to the assigned deadline. It is you
 In the case of extraordinary unforeseeable events (as described in <a href="http://studentcode.illinois.edu/article1/part5/1-501/">§1‑501, paragraph c, bullets 1-3 of the Student Code</a>), a student may request a deadline extension by following <strong>all</strong> of the following instructions no later than <strong>48 hours prior to the homework deadline</strong>:
 
 <ul>
-  <li>No later than 48 hours prior to the deadline, post a private Piazza message addressed to both the instructor and the TA.</li>
+  <li>No later than 48 hours prior to the deadline, post a private Campuswire message addressed to both the instructor and the TA.</li>
   <li>The post must have the exact subject heading "Request deadline extension".</li>
   <li>The post must be tagged with the <i>deadline-extension</i> tag.</li>
   <li>In the body of the post, the student must explicitly describe the reason for the request.</li>
@@ -244,7 +235,7 @@ In the case of extraordinary unforeseeable events (as described in <a href="http
   <li>In the body of the post, the student must attach a PDF of an official absence letter from the <a href="https://odos.illinois.edu/community-of-care/resources/students/absence-letters/">Student Assistance Center in the Office of the Dean of Students</a>.</li>   
 </ul>
 
-A deadline extension will be considered granted if and only if the instructor explicitly replies in the affirmative to the above Piazza post prior to the original deadline. If the instructor grants an extension, a new deadline will be listed for the student as part of the instructor reply to the Piazza post.
+A deadline extension will be considered granted if and only if the instructor explicitly replies in the affirmative to the above Campuswire post prior to the original deadline. If the instructor grants an extension, a new deadline will be listed for the student as part of the instructor reply to the Campuswire post.
 </p>
 
 <p>
