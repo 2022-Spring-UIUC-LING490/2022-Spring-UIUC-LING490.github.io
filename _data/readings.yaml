@@ -133,7 +133,18 @@
           unit: "pages"
 # Week 3
 -
-  title: "Mathematical Foundations: Set Theory"
+  title: "Morphological analysis with FSTs"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"
+-
+  title: "Mathematical Foundations"
   lecturer: Lane Schwartz
   reading:
     -
@@ -145,33 +156,12 @@
           value: 24
           unit: "pages"
     -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      optional: true
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"
--
-  title: "Mathematical Foundations: Relations and Functions"
-  lecturer: Lane Schwartz
-  reading:
-    -
       author: Partee et al.
       title: Chapter 2 - "Relations and Functions"
       url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
       pages: "27‑36"
       length:
           value: 10
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 4 - "Infinities"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_4.pdf"
-      pages: "55‑73"
-      optional: true
-      length:
-          value: 19
           unit: "pages"
 -
   title: "A Gentle Introduction to Finite-State Morphology"
