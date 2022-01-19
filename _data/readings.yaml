@@ -49,6 +49,13 @@
       title: Interactive IPA Chart
       url:   "https://www.ipachart.com"
     -
+      title: Phonological Rules
+      url:   "https://en.wikipedia.org/wiki/Phonological_rule"
+      optional: true
+      length:
+          value: 5
+          unit: "pages"
+    -
       author: Bauer
       title:  "Chapter 3.2-3.10 - Other processes"
       url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
