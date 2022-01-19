@@ -161,6 +161,7 @@
       title: Chapter 4 - "Infinities"
       url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_4.pdf"
       pages: "55‑73"
+      optional: true
       length:
           value: 19
           unit: "pages"
