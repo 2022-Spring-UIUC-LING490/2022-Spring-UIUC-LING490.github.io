@@ -11,7 +11,7 @@
           value: 4
           unit: "pages"
 -
-  title: "Linguistic foundations: Morphology"
+  title: "Linguistic foundations"
   lecturer: Lane Schwartz
   slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
@@ -41,7 +41,7 @@
           unit: "pages"
 # Week 2
 -
-  title: "Linguistic foundations: Phonology"
+  title: "Linguistic foundations"
   lecturer: Lane Schwartz
 #  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
@@ -95,7 +95,7 @@
           value: 18
           unit: "pages"
 -
-  title: "Linguistic foundations: Morphological Processes"
+  title: "Linguistic foundations"
   lecturer: Lane Schwartz
   reading:
     -
