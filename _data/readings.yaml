@@ -41,52 +41,82 @@
           unit: "pages"
 # Week 2
 -
-  title: "Linguistic foundations (part 1)"
+  title: "Linguistic foundations (part 2)"
   lecturer: Lane Schwartz
   slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
     -
-      author: Sproat
-      title: Chapter 2.1 - "The nature of morphology&#58; Introduction"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "15‑19"
+      author: Bauer
+      title:  "Chapter 3.2 - Reduplication"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "31-32"
       length:
-          value: 5
+          value: 1
           unit: "pages"
     -
-      author: Sproat
-      title: Chapter 2.2 - "Functions of morphology"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "19‑43"
+      author: Bauer
+      title:  "Chapter 3.3 - Word-Building by Modification of the Base"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "32-36"
       length:
-          value: 25
-          unit: "pages"     
+          value: 4
+          unit: "pages"
     -
-      author: Sproat
-      title: Chapter 2.3 - "What is combined, and how?"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "43‑66"
+      author: Bauer
+      title:  "Chapter 3.4 - Relationships with no change of form"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "36-38"
       length:
-          value: 24
-          unit: "pages"       
+          value: 3
+          unit: "pages"
     -
-      author: Lieber
-      title: Chapter 1 - "What is morphology?"
-      url: https://www.cambridge.org/us/academic/subjects/languages-linguistics/morphology/introducing-morphology-2nd-edition
-      optional: true
-      pages: "1-8"
+      author: Bauer
+      title:  "Chapter 3.5 - Cases involving shortening bases"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "38-40"
       length:
-          value: 8
-          unit: "pages"    
+          value: 2
+          unit: "pages"
     -
-      author: Lieber
-      title: Chapter 3 - "Lexeme formation"
-      url: https://www.cambridge.org/us/academic/subjects/languages-linguistics/morphology/introducing-morphology-2nd-edition
-      optional: true
-      pages: "35-59"
+      author: Bauer
+      title:  "Chapter 3.6 - Processes involving several lexemes"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "40-46"
       length:
-          value: 25
-          unit: "pages" 
+          value: 6
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 3.7 - Alphabet-based formations"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "46-47"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 3.8 - Unique morphs"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "48"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 3.9 - Suppletion"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "48-49"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 3.10 - Conclusion"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "49"
+      length:
+          value: 0
+          unit: "pages"
 -
 #  title: "A Gentle Introduction"
   title: "Linguistic foundations"
