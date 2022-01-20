@@ -429,7 +429,7 @@
           value: 15
           unit: "pages"
 -
-  title: "A domain-specific language for representing lexicons"
+  title: "Computational Morphology"
   lecturer: Lane Schwartz
   reading:
     -
@@ -457,7 +457,7 @@
           value: 9
           unit: "pages"
 -
-  title: "Planning and Managing Finite-State Projects"
+  title: "Computational Morphology"
   slides: https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/16.pdf
   lecturer: Lane Schwartz
   reading:
