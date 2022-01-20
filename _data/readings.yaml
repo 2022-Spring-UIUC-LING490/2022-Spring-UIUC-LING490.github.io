@@ -158,6 +158,18 @@
           value: 12
           unit: "pages"
 -
+  title: "FSTs and Regular Languages"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Partee et al.
+      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
+      pages: "455‑482"
+      length:
+          value: 28
+          unit: "pages" 
+-
   title: Formal Language Theory
   lecturer: Lane Schwartz
   reading:
@@ -209,18 +221,6 @@
       length:
           value: 5
           unit: "pages"
--
-  title: "FSTs and Regular Languages"
-  lecturer: Lane Schwartz
-  reading:           
-    -
-      author: Partee et al.
-      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
-      pages: "455‑482"
-      length:
-          value: 28
-          unit: "pages" 
 #-
 #  title: "Turing Machines"
 #  lecturer: Lane Schwartz
