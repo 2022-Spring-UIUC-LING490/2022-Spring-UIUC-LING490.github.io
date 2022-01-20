@@ -307,6 +307,13 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Wikipedia
+      title: Phonological Rules
+      url:   "https://en.wikipedia.org/wiki/Phonological_rule"
+      length:
+          value: 5
+          unit: "pages"
+    -
       author: Beesley and Karttunen
       title: "Chapter 3.5 - Rule-like Notations"
       url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
@@ -372,14 +379,6 @@
   lecturer: Lane Schwartz
 #  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
-    -
-      author: Wikipedia
-      title: Phonological Rules
-      url:   "https://en.wikipedia.org/wiki/Phonological_rule"
-      optional: true
-      length:
-          value: 5
-          unit: "pages"
     -
       author: Bauer
       title:  "Chapter 3.2-3.10 - Other processes"
