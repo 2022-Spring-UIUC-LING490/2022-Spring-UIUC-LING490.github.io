@@ -78,6 +78,64 @@
           value: 7
           unit: "pages"
 -
+  title: "Mathematical Foundations"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Partee et al.
+      title: Chapter 1 - "Basic Concepts of Set Theory"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
+      pages: "3‑26"
+      length:
+          value: 24
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 2 - "Relations and Functions"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
+      pages: "27‑36"
+      length:
+          value: 10
+          unit: "pages"
+-
+  title: "A Gentle Introduction to Finite-State Morphology"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: Chapter 1.1-1.4 - "A Gentle Introduction, part 1"
+      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
+      pages: "1‑17"
+      length:
+          value: 17
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: Chapter 1.5-1.9 - "A Gentle Introduction, part 2"
+      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
+      pages: "17‑37"
+      length:
+          value: 21
+          unit: "pages"
+#    -
+#      author: Gansner et al.
+#      title: Section 1 - "Drawing graphs with dot"
+#      url: "http://www.graphviz.org/pdf/dotguide.pdf"
+#      optional: true
+#      pages: "1‑4"
+#      length:
+#          value: 4
+#          unit: "pages"
+    -
+      author: Schwartz
+      title: "Video lecture: Creating graphviz graphs with dot"
+      optional: true
+      url: "https://www.youtube.com/watch?v=9B7w_fh4fg8"
+      times: "00:00‑13:23"
+      length:
+          value: "13.4"
+          unit: "minutes"
+-
   title: "Linguistic foundations"
   lecturer: Lane Schwartz
 #  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
@@ -143,64 +201,6 @@
       length:
           value: 25
           unit: "pages"
--
-  title: "Mathematical Foundations"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Partee et al.
-      title: Chapter 1 - "Basic Concepts of Set Theory"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
-      pages: "3‑26"
-      length:
-          value: 24
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 2 - "Relations and Functions"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
-      pages: "27‑36"
-      length:
-          value: 10
-          unit: "pages"
--
-  title: "A Gentle Introduction to Finite-State Morphology"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Beesley and Karttunen
-      title: Chapter 1.1-1.4 - "A Gentle Introduction, part 1"
-      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
-      pages: "1‑17"
-      length:
-          value: 17
-          unit: "pages"
-    -
-      author: Beesley and Karttunen
-      title: Chapter 1.5-1.9 - "A Gentle Introduction, part 2"
-      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
-      pages: "17‑37"
-      length:
-          value: 21
-          unit: "pages"            
-#    -
-#      author: Gansner et al.
-#      title: Section 1 - "Drawing graphs with dot"
-#      url: "http://www.graphviz.org/pdf/dotguide.pdf"
-#      optional: true
-#      pages: "1‑4"
-#      length:
-#          value: 4
-#          unit: "pages"
-    -
-      author: Schwartz
-      title: "Video lecture: Creating graphviz graphs with dot"
-      optional: true
-      url: "https://www.youtube.com/watch?v=9B7w_fh4fg8"
-      times: "00:00‑13:23"
-      length:
-          value: "13.4"
-          unit: "minutes"
 -
   title: A More Systematic Introduction to Finite-State Morphology
   lecturer: Lane Schwartz
