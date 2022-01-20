@@ -149,6 +149,18 @@
           value: 22
           unit: "pages"
     -
+      author: Partee et al.
+      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
+      pages: "455‑482"
+      length:
+          value: 28
+          unit: "pages"
+-
+  title: "Formal Language Theory"
+  lecturer: Lane Schwartz
+  reading:
+    -
       author: Chomsky (1956)
       title: "Three Models for the Description of Language"
       url: https://chomsky.info/wp-content/uploads/195609-.pdf
@@ -158,17 +170,10 @@
           value: 12
           unit: "pages"
 -
-  title: "Formal Language Theory"
+  title: "Exam"
   lecturer: Lane Schwartz
-  reading:
-    -
-      author: Partee et al.
-      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
-      pages: "455‑482"
-      length:
-          value: 28
-          unit: "pages"
+#
+# Week 5
 -
   title: Finite-State Calculus
   lecturer: Lane Schwartz
@@ -401,18 +406,18 @@
       length:
           value: 18
           unit: "pages"
-# Week 3
--
-  title: "Morphological analysis with FSTs"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"
+## Week 3
+#-
+#  title: "Morphological analysis with FSTs"
+#  lecturer: Lane Schwartz
+#  reading:
+#    -
+#      author: Hulden
+#      title: "Morphological analysis with FSTs"
+#      url: https://fomafst.github.io/morphtut.html
+#      length:
+#          value: 25
+#          unit: "pages"
 -
   title: "A domain-specific language for representing lexicons"
   lecturer: Lane Schwartz
