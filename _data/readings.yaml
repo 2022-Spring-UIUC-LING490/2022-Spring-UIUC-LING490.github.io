@@ -136,25 +136,31 @@
           value: "13.4"
           unit: "minutes"
 -
-  title: "Linguistic foundations"
+  title: "Formal Language Theory"
   lecturer: Lane Schwartz
-#  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
+  slides: "assets/slides/MMiL%20Chapter%2016.pdf"
   reading:
     -
-      author: IPA
-      title: Interactive Chart
-      url:   "https://www.ipachart.com"
+      author: Partee et al.
+      title: Chapter 16 - "Basic Concepts"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
+      pages: "433‑454"
       length:
-          value: 15
-          unit: "minutes"
-    -
-      author: Wikipedia
-      title: Phonological Rules
-      url:   "https://en.wikipedia.org/wiki/Phonological_rule"
-      optional: true
-      length:
-          value: 5
+          value: 22
           unit: "pages"
+    -
+      author: Chomsky (1956)
+      title: "Three Models for the Description of Language"
+      url: https://chomsky.info/wp-content/uploads/195609-.pdf
+      optional: true
+      pages: "113‑124"
+      length:
+          value: 12
+          unit: "pages"
+-
+  title: Formal Language Theory
+  lecturer: Lane Schwartz
+  reading:
     -
       author: Beesley and Karttunen
       title: Preliminaries
@@ -163,48 +169,6 @@
       length:
           value: 6
           unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 3.2-3.10 - Other processes"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "31-49"
-      length:
-          value: 18
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 4 - Defining the word-form"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "57-67"
-      optional: true
-      length:
-          value: 11
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 5 - Productivity"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "70-87"
-      optional: true
-      length:
-          value: 18
-          unit: "pages"
-# Week 3
--
-  title: "Morphological analysis with FSTs"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"
--
-  title: A More Systematic Introduction to Finite-State Morphology
-  lecturer: Lane Schwartz
-  reading:
     -
       author: Beesley and Karttunen
       title: Chapter 2.1 - "Where We Are"
@@ -245,28 +209,6 @@
       length:
           value: 5
           unit: "pages"
--
-  title: "Languages, Grammars, and Automata"
-  lecturer: Lane Schwartz
-  slides: "assets/slides/MMiL%20Chapter%2016.pdf"
-  reading:          
-    -
-      author: Partee et al.
-      title: Chapter 16 - "Basic Concepts"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
-      pages: "433‑454"
-      length:
-          value: 22
-          unit: "pages"   
-    -
-      author: Chomsky (1956)
-      title: "Three Models for the Description of Language"
-      url: https://chomsky.info/wp-content/uploads/195609-.pdf
-      optional: true
-      pages: "113‑124"
-      length:
-          value: 12
-          unit: "pages"          
 -
   title: "FSTs and Regular Languages"
   lecturer: Lane Schwartz
@@ -413,6 +355,64 @@
       length:
           value: 4
           unit: "pages"          
+-
+  title: "Linguistic foundations"
+  lecturer: Lane Schwartz
+#  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
+  reading:
+    -
+      author: IPA
+      title: Interactive Chart
+      url:   "https://www.ipachart.com"
+      length:
+          value: 15
+          unit: "minutes"
+    -
+      author: Wikipedia
+      title: Phonological Rules
+      url:   "https://en.wikipedia.org/wiki/Phonological_rule"
+      optional: true
+      length:
+          value: 5
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 3.2-3.10 - Other processes"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "31-49"
+      length:
+          value: 18
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 4 - Defining the word-form"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "57-67"
+      optional: true
+      length:
+          value: 11
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 5 - Productivity"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "70-87"
+      optional: true
+      length:
+          value: 18
+          unit: "pages"
+# Week 3
+-
+  title: "Morphological analysis with FSTs"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"
 -
   title: "A domain-specific language for representing lexicons"
   lecturer: Lane Schwartz
