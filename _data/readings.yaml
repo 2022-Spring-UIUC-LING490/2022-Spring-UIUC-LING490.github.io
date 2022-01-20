@@ -43,6 +43,43 @@
 -
   title: "Linguistic foundations"
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Bauer
+      title:  "Chapter 6 - Inflection and Derivation"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "91-107"
+      length:
+          value: 17
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 7 - What is a Morpheme"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "110-120"
+      length:
+          value: 11
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 8 - The Domain of Morphology"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "122-138"
+      optional: true
+      length:
+          value: 17
+          unit: "pages"
+    -
+      author: Bauer
+      title:  "Chapter 9.0-9.1 - Recognizing Affixes"
+      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
+      pages:  "145-152"
+      length:
+          value: 7
+          unit: "pages"
+-
+  title: "Linguistic foundations"
+  lecturer: Lane Schwartz
 #  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
     -
@@ -93,43 +130,6 @@
       optional: true
       length:
           value: 18
-          unit: "pages"
--
-  title: "Linguistic foundations"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Bauer
-      title:  "Chapter 6 - Inflection and Derivation"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "91-107"
-      length:
-          value: 17
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 7 - What is a Morpheme"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "110-120"
-      length:
-          value: 11
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 8 - The Domain of Morphology"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "122-138"
-      optional: true
-      length:
-          value: 17
-          unit: "pages"
-    -
-      author: Bauer
-      title:  "Chapter 9.0-9.1 - Recognizing Affixes"
-      url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
-      pages:  "145-152"
-      length:
-          value: 7
           unit: "pages"
 # Week 3
 -
