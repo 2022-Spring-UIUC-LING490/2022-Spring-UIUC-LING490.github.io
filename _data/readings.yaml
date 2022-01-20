@@ -200,6 +200,17 @@
 #
 # Week 5
 -
+  title: "Computational Morphology"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"
+-
   title: Finite-State Calculus
   lecturer: Lane Schwartz
   reading:
@@ -266,12 +277,9 @@
 
 -
 #  title: "The Chomsky Hierarchy"
-  title: "A domain-specific language for finite-state morphology"
+  title: "Finite-State Calculus"
   lecturer: Lane Schwartz
   reading:
-    -
-      title: Estimated approximate date 
-      author: Exam 1
     -
       author: Beesley and Karttunen
       title: "Chapter 3.1 - The xfst Interface"
@@ -321,7 +329,7 @@
           value: 7
           unit: "pages"          
 -
-  title: "A domain-specific language for finite-state morphology"
+  title: "Finite-State Calculus"
   lecturer: Lane Schwartz
   reading:
     -
@@ -340,7 +348,7 @@
           value: 53
           unit: "pages"
 -
-  title: "A domain-specific language for finite-state morphology"
+  title: "Finite-State Calculus"
   lecturer: Lane Schwartz
   reading:
     -
@@ -391,25 +399,9 @@
       pages: "29‑32"
       length:
           value: 4
-          unit: "pages"          
+          unit: "pages"
 -
-  title: "Blank"
-  lecturer: Lane Schwartz
-#  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
-## Week 3
-#-
-#  title: "Morphological analysis with FSTs"
-#  lecturer: Lane Schwartz
-#  reading:
-#    -
-#      author: Hulden
-#      title: "Morphological analysis with FSTs"
-#      url: https://fomafst.github.io/morphtut.html
-#      length:
-#          value: 25
-#          unit: "pages"
--
-  title: "A domain-specific language for representing lexicons"
+  title: "Computational Morphology"
   lecturer: Lane Schwartz
   reading:
     -
