@@ -200,17 +200,6 @@
 #
 # Week 5
 -
-  title: "Computational Morphology"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"
--
   title: Finite-State Calculus
   lecturer: Lane Schwartz
   reading:
@@ -399,6 +388,17 @@
       pages: "29‑32"
       length:
           value: 4
+          unit: "pages"
+-
+  title: "Computational Morphology"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
           unit: "pages"
 -
   title: "Computational Morphology"
