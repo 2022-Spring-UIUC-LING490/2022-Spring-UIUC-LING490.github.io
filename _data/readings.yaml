@@ -393,17 +393,6 @@
       length:
           value: 4
           unit: "pages"
-#-
-#  title: "Computational Morphology"
-#  lecturer: Lane Schwartz
-#  reading:
-#    -
-#      author: Hulden
-#      title: "Morphological analysis with FSTs"
-#      url: https://fomafst.github.io/morphtut.html
-#      length:
-#          value: 25
-#          unit: "pages"
 -
   title: "Computational Morphology"
   lecturer: Lane Schwartz
@@ -459,6 +448,17 @@
       pages: "270‑278"
       length:
           value: 9
+          unit: "pages"
+-
+  title: "Computational Morphology"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
           unit: "pages"
 -
   title: "Exam"
@@ -972,5 +972,5 @@
 #  lecturer: Lane Schwartz
 #  reading:
 #    -
-#      title: Estimated approximate date 
+#      title: Estimated approximate date
 #      author: Final exam
