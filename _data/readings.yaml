@@ -197,6 +197,10 @@
 -
   title: "Exam"
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: "Exam 1"
+      title: "Linguistic Foundations, Mathematical Foundations, & Formal Language Theory"
 #
 # Week 5
 -
@@ -389,17 +393,17 @@
       length:
           value: 4
           unit: "pages"
--
-  title: "Computational Morphology"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"
+#-
+#  title: "Computational Morphology"
+#  lecturer: Lane Schwartz
+#  reading:
+#    -
+#      author: Hulden
+#      title: "Morphological analysis with FSTs"
+#      url: https://fomafst.github.io/morphtut.html
+#      length:
+#          value: 25
+#          unit: "pages"
 -
   title: "Computational Morphology"
   lecturer: Lane Schwartz
@@ -457,8 +461,20 @@
           value: 9
           unit: "pages"
 -
+  title: "Exam"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: "Exam 2"
+      title: "Computational Morphology using Finite-State Calculus"
+
+-
+  title: "Spring Break"
+-
+  title: "Spring Break"
+-
   title: "Computational Morphology"
-  slides: https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/16.pdf
+#  slides: https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/16.pdf
   lecturer: Lane Schwartz
   reading:
     -
@@ -510,10 +526,6 @@
       length:
           value: 4
           unit: "pages"
--
-  title: "Spring Break"
--
-  title: "Spring Break"
 -
   title: "Testing and Debugging"
   lecturer: Lane Schwartz
@@ -955,10 +967,10 @@
       length:
           value: 5
           unit: "pages"
--
-# title: Two-level phonology
-  lecturer: Lane Schwartz
-  reading:
-    -
-      title: Estimated approximate date 
-      author: Final exam
+#-
+## title: Two-level phonology
+#  lecturer: Lane Schwartz
+#  reading:
+#    -
+#      title: Estimated approximate date 
+#      author: Final exam
