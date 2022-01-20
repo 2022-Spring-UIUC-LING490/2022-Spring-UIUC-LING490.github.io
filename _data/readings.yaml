@@ -45,6 +45,13 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: IPA
+      title: Interactive Chart
+      url:   "https://www.ipachart.com"
+      length:
+          value: 15
+          unit: "minutes"
+    -
       author: Bauer
       title:  "Chapter 6 - Inflection and Derivation"
       url:    "http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrdv8.6"
@@ -365,13 +372,6 @@
   lecturer: Lane Schwartz
 #  slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ4KYjbHk7SKVfu67KZUQGhdTMITs4xN65PXMKmk0B-n5KFHtqHdyTEmHgECZ7LRpHwKJ1Ag88ADwRP/pub?start=false&loop=false&delayms=3000"
   reading:
-    -
-      author: IPA
-      title: Interactive Chart
-      url:   "https://www.ipachart.com"
-      length:
-          value: 15
-          unit: "minutes"
     -
       author: Wikipedia
       title: Phonological Rules
