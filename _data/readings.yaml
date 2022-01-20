@@ -639,6 +639,103 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Beesley and Karttunen
+      title: "Section 1 - Introduction to twolc"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "1‑13"
+      length:
+          value: 13
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Section 2 - Basic twolc Syntax"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "14-28"
+      length:
+          value: 15
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Section 3 - Full twolc Syntax"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "28-38"
+      length:
+          value: 10
+          unit: "pages"
+    -
+      author: Schwartz
+      title: "Video lecture: Introduction to Two Level Morphology"
+      url: https://www.youtube.com/watch?v=ZH9CRdGyzuo
+      times: "00:00-24:40"
+      length:
+         value: 25
+         unit: "minutes"
+    -
+      author: Schwartz
+      title: "Video lecture: Two Level Morphology with a toy grammar"
+      url: https://www.youtube.com/watch?v=KvifFarDRoU
+      times: "00:00-32:11"
+      length:
+         value: 32
+         unit: "minutes"
+    -
+      author: Schwartz
+      title: "Video lecture: Exporting transducers from twolc to foma"
+      url: https://www.youtube.com/watch?v=egtCuXx8Dc4
+      times: "00:00-14:17"
+      length:
+         value: 14
+         unit: "minutes"
+    -
+      author: Karttunen
+      title: "The Proper Treatment of Optimality in Computational Phonology"
+      optional: true
+      url: http://www.aclweb.org/anthology/W98-1301
+      pages: "1‑11"
+      length:
+          value: 11
+          unit: "pages"
+-
+  title: "Advanced Topics"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Section 4 - The Art and Craft of Writing twolc Grammars"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "38-44"
+      length:
+          value: 6
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Section 5 - Debugging twolc Rules"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "44-62"
+      length:
+          value: 18
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Section 6 - Final Reflections on Two-Level Rules"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "62-65"
+      length:
+          value: 3
+          unit: "pages"
+    -
+      author: Antworth
+      title: Appendix B - "Two-level Phonology Revisited"
+      optional: true
+      url: "https://web.archive.org/web/20161231023914/http://www-01.sil.org:80/pckimmo/v2/doc/twolphon.html"
+      length:
+          value: 17
+          unit: "pages"
+-
+  title: "Advanced Topics"
+  lecturer: Lane Schwartz
+  reading:
+    -
       author: Schwartz
       title: "Video lecture: Testing and Make"
       url: https://www.youtube.com/watch?v=WpX9ax0s3ms
@@ -742,104 +839,7 @@
       times: "00:00-49:00"
       length:
          value: 49
-         unit: "minutes"           
--
-  title: "Two-Level Morphology" 
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Beesley and Karttunen
-      title: "Section 1 - Introduction to twolc"
-      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
-      pages: "1‑13"
-      length:
-          value: 13
-          unit: "pages"
-    -
-      author: Beesley and Karttunen
-      title: "Section 2 - Basic twolc Syntax"
-      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
-      pages: "14-28"
-      length:
-          value: 15
-          unit: "pages" 
-    -
-      author: Beesley and Karttunen
-      title: "Section 3 - Full twolc Syntax"
-      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
-      pages: "28-38"
-      length:
-          value: 10
-          unit: "pages"
-    -
-      author: Schwartz
-      title: "Video lecture: Introduction to Two Level Morphology"
-      url: https://www.youtube.com/watch?v=ZH9CRdGyzuo
-      times: "00:00-24:40"
-      length:
-         value: 25
-         unit: "minutes"  
-    -
-      author: Schwartz
-      title: "Video lecture: Two Level Morphology with a toy grammar"
-      url: https://www.youtube.com/watch?v=KvifFarDRoU
-      times: "00:00-32:11"
-      length:
-         value: 32
          unit: "minutes"
-    -
-      author: Schwartz
-      title: "Video lecture: Exporting transducers from twolc to foma"
-      url: https://www.youtube.com/watch?v=egtCuXx8Dc4
-      times: "00:00-14:17"
-      length:
-         value: 14
-         unit: "minutes"         
-    -
-      author: Karttunen
-      title: "The Proper Treatment of Optimality in Computational Phonology"
-      optional: true
-      url: http://www.aclweb.org/anthology/W98-1301
-      pages: "1‑11"
-      length:
-          value: 11
-          unit: "pages"          
--
-  title: "Two-Level Morphology" 
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Beesley and Karttunen
-      title: "Section 4 - The Art and Craft of Writing twolc Grammars"
-      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
-      pages: "38-44"
-      length:
-          value: 6
-          unit: "pages"
-    -
-      author: Beesley and Karttunen
-      title: "Section 5 - Debugging twolc Rules"
-      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
-      pages: "44-62"
-      length:
-          value: 18
-          unit: "pages" 
-    -
-      author: Beesley and Karttunen
-      title: "Section 6 - Final Reflections on Two-Level Rules"
-      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
-      pages: "62-65"
-      length:
-          value: 3
-          unit: "pages" 
-    -
-      author: Antworth
-      title: Appendix B - "Two-level Phonology Revisited"
-      optional: true
-      url: "https://web.archive.org/web/20161231023914/http://www-01.sil.org:80/pckimmo/v2/doc/twolphon.html"
-      length:
-          value: 17
-          unit: "pages"   
 #-
 # title: 
 #  lecturer: Lane Schwartz
