@@ -158,7 +158,7 @@
           value: 12
           unit: "pages"
 -
-  title: "FSTs and Regular Languages"
+  title: "Formal Language Theory"
   lecturer: Lane Schwartz
   reading:
     -
@@ -168,9 +168,9 @@
       pages: "455‑482"
       length:
           value: 28
-          unit: "pages" 
+          unit: "pages"
 -
-  title: Formal Language Theory
+  title: Finite-State Calculus
   lecturer: Lane Schwartz
   reading:
     -
