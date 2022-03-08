@@ -461,18 +461,6 @@
           value: 25
           unit: "pages"
 -
-  title: "Exam"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: "Exam 2"
-      title: "Computational Morphology using Finite-State Calculus"
-
--
-  title: "Spring Break"
--
-  title: "Spring Break"
--
   lecturer: Lane Schwartz
   title: "Hands-on Practice"
   reading:
@@ -517,6 +505,10 @@
          value: 27
          unit: "minutes"
 -
+  title: "Spring Break"
+-
+  title: "Spring Break"
+-
   lecturer: Schwartz
   title: Advanced Topics
   reading:
@@ -552,6 +544,13 @@
       length:
           value: 36
           unit: "pages"
+-
+  title: "Exam"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: "Exam 2"
+      title: "Computational Morphology using Finite-State Calculus"
 -
   lecturer: Lane Schwartz
   title: "Hands-on Practice"
